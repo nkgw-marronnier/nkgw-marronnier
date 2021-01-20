@@ -1,16 +1,17 @@
-### Hi there 👋
+### nkgw-marronnier へようこそ 👋
 
-<!--
-**nkgw-marronnier/nkgw-marronnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
 
-Here are some ideas to get you started:
+就活を控えた無能大学生. 暇さえあればプログラムか麻雀に勤しむ大学生の鑑.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 勉強中
+
+* Web(HTML, Javascript, css)
+* C++, Python(競プロなど)
+
+## 趣味
+
+* Webゲーム作成
+* 麻雀
+* Minecraft(最近は自粛中)
+* 音楽制作
