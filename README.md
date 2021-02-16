@@ -7,12 +7,12 @@
 
 #### 勉強中
 
-* Web(HTML, Javascript, CSS)
+* Web(HTML, Javascript, CSS, PHP, MySQL)
 * C++, Python(競プロなど)
 
 #### 趣味
 
-* Webゲーム作成
+* Webブラウザゲーム制作
 * 麻雀(自粛中)
 * Minecraft(自粛中)
 * 楽曲制作(ゲーム音楽/VOCALOID)
