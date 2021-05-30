@@ -5,8 +5,8 @@
 就活を控えた何処にでもいる無能大学生. 暇さえあればプログラムか麻雀に勤しむ大学生の鑑. 
 大学の課題や勉強範囲内のもの, 趣味のコンテンツを振り返り用に纏める.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkgw-marronnier&theme=chartreuse-dark&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkgw-marronnier&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkgw-marronnier&theme=chartreuse-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkgw-marronnier&layout=compact&theme=chartreuse-dark&show_icons=true)
 
 [ポートフォリオはこちらから.](https://nkgw-marronnier.github.io/index.html)(新しくタブは開かれないので注意.)
 
