@@ -6,6 +6,7 @@
 大学の課題や勉強範囲内のもの, 趣味のコンテンツを振り返り用に纏める.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkgw-marronnier)](https://github.com/nkgw-marronnier/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkgw-marronnier&layout=compact)](https://github.com/nkgw-marronnier/github-readme-stats)
 
 [ポートフォリオはこちらから.](https://nkgw-marronnier.github.io/index.html)(新しくタブは開かれないので注意.)
 
