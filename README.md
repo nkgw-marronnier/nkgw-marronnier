@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkgw-marronnier&layout=compact&theme=chartreuse-dark&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nkgw-marronnier&theme=juicyfresh&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=nkgw-marronnier&theme=juicyfresh&margin-w=0&no-frame=true)
 
 [ポートフォリオはこちらから.](https://nkgw-marronnier.github.io/index.html) ※新しくタブは開かれないので注意.
 
