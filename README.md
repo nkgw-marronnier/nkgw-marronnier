@@ -1,6 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkgw-marronnier&theme=chartreuse-dark&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkgw-marronnier&layout=compact&theme=chartreuse-dark&show_icons=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=nkgw-marronnier&theme=juicyfresh)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nkgw-marronnier&theme=juicyfresh&no-frame=true)
 
 [ポートフォリオはこちらから.](https://nkgw-marronnier.github.io/index.html) ※新しくタブは開かれないので注意.
 
